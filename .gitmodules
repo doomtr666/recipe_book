@@ -1,0 +1,3 @@
+[submodule "recipe_book/themes/cookbook"]
+	path = recipe_book/themes/cookbook
+	url = https://github.com/deranjer/hugo-cookbook.git
